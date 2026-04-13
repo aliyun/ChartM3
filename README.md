@@ -71,12 +71,12 @@ Edit `configs/local.yaml`:
 llm:
   api_key: "your-api-key"
   base_url: "https://api.openai.com/v1"
-  model: "gpt-4"
+  model: ""
 
 vlm:
   api_key: "your-vlm-api-key"
   base_url: "https://api.openai.com/v1"
-  model: "gpt-4-vision-preview"
+  model: ""
 ```
 
 Or set environment variables:
