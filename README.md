@@ -45,7 +45,7 @@ ChartM³ is an automated pipeline for generating chart understanding datasets to
 
 ```bash
 # Clone the repository
-git clone https://github.com/****/ChartM3.git
+git clone https://github.com/aliyun/ChartM3.git
 cd ChartM3
 
 # Install dependencies
