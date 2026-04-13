@@ -1,4 +1,4 @@
-# ChartM³: Multi-Modal Multi-Step Chart Understanding
+# ChartM³
 
 <p align="center">
   <a href="https://arxiv.org/abs/2511.02415"><img src="https://img.shields.io/badge/arXiv-2511.02415-b31b1b.svg" alt="arXiv"></a>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>A Multi-Stage Code-Driven Pipeline for Constructing Multi-Dimensional and Multi-Step Visual Reasoning Data in Chart Comprehension</b>
+  <b>ChartM^3: A Multi-Stage Code-Driven Pipeline for Constructing Multi-Dimensional and Multi-Step Visual Reasoning Data in Chart Comprehension</b>
 </p>
 
 <p align="center">
