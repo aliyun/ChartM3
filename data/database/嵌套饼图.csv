@@ -1,0 +1,9 @@
+parent,segment,value
+Total,Enterprise,40
+Total,Consumer,60
+Enterprise,Cloud,15
+Enterprise,Security,10
+Enterprise,Services,15
+Consumer,Mobile,25
+Consumer,PC,20
+Consumer,IoT,15

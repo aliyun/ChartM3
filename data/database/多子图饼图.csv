@@ -1,0 +1,21 @@
+Region,Brand,Market_Share
+North America,Apple,45
+North America,Samsung,25
+North America,Xiaomi,5
+North America,Huawei,5
+North America,Others,20
+Europe,Apple,35
+Europe,Samsung,30
+Europe,Xiaomi,15
+Europe,Huawei,10
+Europe,Others,10
+Asia,Apple,20
+Asia,Samsung,25
+Asia,Xiaomi,25
+Asia,Huawei,20
+Asia,Others,10
+Global,Apple,30
+Global,Samsung,28
+Global,Xiaomi,15
+Global,Huawei,12
+Global,Others,15

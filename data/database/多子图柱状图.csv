@@ -1,0 +1,13 @@
+Region,Product,Sales
+North,Electronics,991
+North,Furniture,580
+North,Clothing,640
+South,Electronics,497
+South,Furniture,691
+South,Clothing,203
+East,Electronics,307
+East,Furniture,321
+East,Clothing,327
+West,Electronics,805
+West,Furniture,291
+West,Clothing,941

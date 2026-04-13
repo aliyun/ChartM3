@@ -1,0 +1,19 @@
+Model,Metric,Score
+Luxury Sedan,Comfort,75
+Sports Car,Comfort,70
+SUV,Comfort,90
+Luxury Sedan,Fuel Economy,65
+Sports Car,Fuel Economy,85
+SUV,Fuel Economy,80
+Luxury Sedan,Handling,95
+Sports Car,Handling,90
+SUV,Handling,60
+Luxury Sedan,Reliability,50
+Sports Car,Reliability,70
+SUV,Reliability,65
+Luxury Sedan,Safety,60
+Sports Car,Safety,65
+SUV,Safety,85
+Luxury Sedan,Speed,75
+Sports Car,Speed,90
+SUV,Speed,85

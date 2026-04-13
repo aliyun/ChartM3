@@ -1,0 +1,48 @@
+# ChartM3 Configuration File
+# Copy this file to configs/default.yaml and modify as needed
+
+# LLM API Configuration
+llm:
+  base_url: "http://127.0.0.1:8004/v1"
+  api_key: ""  # Set via CHARTM3_LLM_API_KEY environment variable
+  model: ""
+  temperature: 0.7
+  max_tokens: 4096
+  timeout: 120
+
+# Vision-Language Model Configuration
+vlm:
+  base_url: "http://127.0.0.1:8005/v1"
+  api_key: ""  # Set via CHARTM3_VLM_API_KEY environment variable
+  model: ""
+  temperature: 0.7
+  max_tokens: 4096
+  max_image_pixels: 802816  # 1024 * 28 * 28
+  timeout: 180
+
+# Path Configuration
+paths:
+  database_dir: "data/database"
+  data_dir: "data"
+  output_dir: "data/output"
+
+# Pipeline Configuration
+pipeline:
+  num_threads: 8
+  topics_per_domain: 20
+  max_samples_per_topic: 15
+  enable_resume: true
+  log_level: "INFO"
+
+# Quality Evaluation Configuration (Step 3.5)
+quality:
+  # Evaluation mode: "classifier" or "vlm"
+  mode: "vlm"
+  # Classifier model path (required for classifier mode)
+  classifier_path: ""
+  # Base Qwen2-VL model path (for classifier mode)
+  base_model_path: "Qwen/Qwen2-VL-2B-Instruct"
+  # Batch size for classifier inference
+  batch_size: 8
+  # Device for classifier inference
+  device: "cuda"

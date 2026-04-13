@@ -1,0 +1,20 @@
+id,parent,value
+Renewable Energy,,1000
+Solar,Renewable Energy,300
+Wind,Renewable Energy,250
+Hydro,Renewable Energy,200
+Biomass,Renewable Energy,150
+Geothermal,Renewable Energy,100
+Solar PV,Solar,150
+Solar Thermal,Solar,100
+CSP,Solar,50
+Onshore Wind,Wind,150
+Offshore Wind,Wind,100
+Large Hydro,Hydro,150
+Small Hydro,Hydro,50
+Wood,Biomass,70
+Waste,Biomass,50
+Biogas,Biomass,30
+Binary Plant,Geothermal,40
+Flash Plant,Geothermal,35
+Dry Steam,Geothermal,25

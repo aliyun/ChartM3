@@ -1,0 +1,4 @@
+Category,Total,SubCategories
+Electronics,972,"{'Phones': 388, 'Computers': 340, 'Accessories': 145}"
+Furniture,1133,"{'Living Room': 509, 'Bedroom': 339, 'Office': 169}"
+Clothing,1013,"{'Men': 354, 'Women': 405, 'Children': 151}"
