@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  Duo Xu, Hao Cheng, Xin Lin, Zhen Xie, Hao Wang
+</p>
+
+<p align="center">
   <a href="#overview">Overview</a> •
   <a href="#installation">Installation</a> •
   <a href="#quick-start">Quick Start</a> •
